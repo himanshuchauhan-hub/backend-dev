@@ -1,0 +1,16 @@
+{
+  "name": "backend-dev",
+  "version": "1.0.0",
+  "description": "a backend code for app like youtube",
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "license": "ISC",
+  "author": "Himanshu Chauhan",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
